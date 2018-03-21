@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except the following dirs
+!docker/
+
+# And files
+!.gitignore
+!LICENSE
+!README.md
