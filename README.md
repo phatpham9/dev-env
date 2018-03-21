@@ -10,18 +10,18 @@ Make sure the following tools are installed on your local machine:
 
 ## /docker
 
-Start services as docker containers using docker-compose so that you don't need to install each of them on your local machine.
+Start services as docker containers using [docker-compose](https://docs.docker.com/compose) so that you don't need to install each of them on your local machine:
 
 ```bash
-  $ ./docker/start.sh --up
+  ./docker/start.sh --up
   # or ./docker/start.sh -u
 ```
 
-Stopping those services by the following command. The services will be stopped and deleted.
+To stop and delete those services, use the following command:
 
 ```bash
-  $ ./docker/start.sh --down
+  ./docker/start.sh --down
   # or ./docker/start.sh -d
 ```
 
-Note: Some directories will be created automatically at the first time you start it. Those are persistant storage for like MySQL, MongoDB, Redis, etc...
+<u>Note</u>: Some directories will be created automatically at the first time you start it. Those are persistant storages for your services.
