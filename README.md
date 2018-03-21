@@ -13,15 +13,13 @@ Make sure the following tools are installed on your local machine:
 Start services as docker containers using [docker-compose](https://docs.docker.com/compose) so that you don't need to install each of them on your local machine:
 
 ```bash
-  ./docker/start.sh --up
-  # or ./docker/start.sh -u
+  ./docker/run.sh --start
 ```
 
 To stop and delete those services, use the following command:
 
 ```bash
-  ./docker/start.sh --down
-  # or ./docker/start.sh -d
+  ./docker/run.sh --stop
 ```
 
-<u>Note</u>: Some directories will be created automatically at the first time you start it. Those are persistant storages for your services.
+<u>Note</u>: Some directories will be created automatically in this root dir on the first time you start it. Those are persistant storages for your services.
