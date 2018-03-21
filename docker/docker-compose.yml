@@ -1,0 +1,37 @@
+version: "3"
+
+services:
+
+  mysql:
+    image: mysql:5
+    ports:
+      - "${MYSQL_PORT}:3306"
+    volumes:
+      - "${MYSQL_DIR}:/var/lib/mysql"
+    environment:
+      - "MYSQL_ALLOW_EMPTY_PASSWORD=yes"
+    restart: on-failure
+
+  mongo:
+    image: mongo:3.4-jessie
+    ports:
+      - "${MONGO_PORT}:27017"
+    volumes:
+      - "${MONGO_DIR}:/data/db"
+    restart: on-failure
+
+  redis:
+    image: redis:4-alpine
+    ports:
+      - "${REDIS_PORT}:6379"
+    volumes:
+      - "${REDIS_DIR}:/data"
+    restart: on-failure
+
+  php:
+    image: php:7-apache
+    ports:
+      - "${PHP_PORT}:80"
+    volumes:
+      - "${PHP_DIR}:/var/www/html"
+    restart: on-failure
