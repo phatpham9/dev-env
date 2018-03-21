@@ -1,5 +1,5 @@
 # dev-env
-my development environment
+my development environment set up
 
 ## /git-clone
 
@@ -21,11 +21,14 @@ coming soon...
 
 ### Prerequisites
 
-Make sure [Docker](https://docs.docker.com/install) is installed on your local machine.
+Make sure the following tools are installed on your local machine:
+
+- [Docker](https://docs.docker.com/install)
+- [Docker Compose](https://docs.docker.com/compose)
 
 ### Usage
 
-Start services as docker containers using [docker-compose](https://docs.docker.com/compose) so that you don't need to install each of them on your local machine:
+Start services as docker containers so that you don't need to install each of them on your local machine:
 
 ```bash
   ./docker/run.sh --start
