@@ -1,14 +1,13 @@
 # dev-env
 my development environment
 
-## Prerequisites
-
-Make sure the following tools are installed on your local machine:
-
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [Docker](https://docs.docker.com/install)
-
 ## /git-clone
+
+### Prerequisites
+
+Make sure [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your local machine.
+
+### Usage
 
 Clone your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command:
 
@@ -19,6 +18,12 @@ coming soon...
 <u>Note</u>: All your cloned repositories will be placed in `/repos` dir.
 
 ## /docker
+
+### Prerequisites
+
+Make sure [Docker](https://docs.docker.com/install) is installed on your local machine.
+
+### Usage
 
 Start services as docker containers using [docker-compose](https://docs.docker.com/compose) so that you don't need to install each of them on your local machine:
 
