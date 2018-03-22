@@ -1,6 +1,10 @@
 # dev-env
 my development environment set up
 
+## /toolset
+
+coming soon...
+
 ## /git-clone
 
 Cloning your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command.
@@ -15,7 +19,7 @@ Make sure you are done with the following:
 
 Run the following command:
 
-```bash
+```
 coming soon...
 ```
 
@@ -36,13 +40,13 @@ Make sure the following tools are installed on your local machine:
 
 Run the following command to start services:
 
-```bash
+```
 ./docker/run.sh --start
 ```
 
 And to stop and delete services:
 
-```bash
+```
 ./docker/run.sh --stop
 ```
 
