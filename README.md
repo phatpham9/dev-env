@@ -3,13 +3,17 @@ my development environment set up
 
 ## /git-clone
 
+Cloning your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command.
+
 ### Prerequisites
 
-Make sure [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your local machine.
+Make sure you are done with the following:
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your local machine.
+- SSH key on local machine is added to your GitHub/GitLab/BitBucket account. If you don't have the key, generate one following [this link](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 ### Usage
 
-Clone your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command:
+Run the following command:
 
 ```bash
 coming soon...
@@ -18,6 +22,8 @@ coming soon...
 <u>Note</u>: All your cloned repositories will be placed in `/repos` dir.
 
 ## /docker
+
+Starting services as docker containers so that you don't need to install each of them on your local machine.
 
 ### Prerequisites
 
@@ -28,16 +34,16 @@ Make sure the following tools are installed on your local machine:
 
 ### Usage
 
-Start services as docker containers so that you don't need to install each of them on your local machine:
+Run the following command to start services:
 
 ```bash
-  ./docker/run.sh --start
+./docker/run.sh --start
 ```
 
-To stop and delete those services, use the following command:
+And to stop and delete services:
 
 ```bash
-  ./docker/run.sh --stop
+./docker/run.sh --stop
 ```
 
 <u>Note</u>: Some directories will be created automatically in this root dir on the first time you start it. Those are persistant storages for your services.
