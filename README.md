@@ -3,7 +3,55 @@ my development environment set up
 
 ## /toolset
 
-coming soon...
+### Command Line tools
+
+#### Prerequisites
+
+- brew: https://brew.sh
+- xcode: https://developer.apple.com/xcode
+
+#### Development
+
+- git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- nvm: https://github.com/creationix/nvm#installation
+- yarn: https://yarnpkg.com/lang/en/docs/install
+
+#### Utilities
+
+- fkill-cli: https://github.com/sindresorhus/fkill-cli
+- serve: https://github.com/zeit/serve
+- thefuck: https://github.com/nvbn/thefuck
+
+### Mac Apps
+
+#### Development
+
+- Trello: https://trello.com/platforms
+- VS Code: https://code.visualstudio.com/Download
+- Docker: https://docs.docker.com/install
+- RoboMongo: https://robomongo.org/download
+- SquelPro: https://www.sequelpro.com/download
+- Medis: https://github.com/luin/medis/releases/tag/v0.3.0
+- Postman: https://www.getpostman.com/apps
+
+#### Communication
+
+- Slack: https://slack.com/downloads/osx
+- Mattermost: https://about.mattermost.com/download
+- Messenger: https://fbmacmessenger.rsms.me
+- Skype: https://www.skype.com/en/get-skype
+
+#### Utilities
+
+- Alfred: https://www.alfredapp.com
+- Spectacle: https://www.spectacleapp.com
+- RescureTime: https://www.rescuetime.com/download
+- The Unarchiver: https://itunes.apple.com/us/app/the-unarchiver/id425424353
+
+#### Others
+
+- VLC: https://www.videolan.org/vlc
+- WebTorrent: https://webtorrent.io/desktop
 
 ## /git-clone
 
