@@ -1,13 +1,1 @@
-# Ignore everything
-*
-
-# Except the following dirs
-!docker/
-!docker/.env.example
-!docker/docker-compose.yml
-!docker/start.sh
-
-# And files
-!.gitignore
-!LICENSE
-!README.md
+.env
