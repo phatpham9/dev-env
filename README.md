@@ -71,7 +71,7 @@ Run the following command:
 coming soon...
 ```
 
-<u>Note</u>: All your cloned repositories will be placed in `/repos` dir.
+All your cloned repositories will be placed in `/repos` upper one level of this dir.
 
 ## /docker
 
@@ -98,4 +98,4 @@ And to stop and delete services:
 ./docker/run.sh --stop
 ```
 
-<u>Note</u>: Some directories will be created automatically in this root dir on the first time you start it. Those are persistant storages for your services.
+Some directories will be created automatically in upper one level outside this dir on the first time you start it. Those are persistant storages for your services.
