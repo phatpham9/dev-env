@@ -19,6 +19,7 @@ my development environment set up
 #### Utilities
 
 - fkill-cli: https://github.com/sindresorhus/fkill-cli
+- hotel: https://github.com/typicode/hotel
 - serve: https://github.com/zeit/serve
 - thefuck: https://github.com/nvbn/thefuck
 
