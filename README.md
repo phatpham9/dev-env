@@ -7,46 +7,46 @@ my development environment set up
 
 #### Prerequisites
 
-- xcode: https://developer.apple.com/xcode
-- brew: https://brew.sh
-- yarn: https://yarnpkg.com/lang/en/docs/install
-- nvm: https://github.com/creationix/nvm#installation
-- git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- [xcode](https://developer.apple.com/xcode)
+- [brew](https://brew.sh)
+- [yarn](https://yarnpkg.com/lang/en/docs/install)
+- [nvm](https://github.com/creationix/nvm#installation)
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 #### Utilities
 
-- hotel: https://github.com/typicode/hotel
-- serve: https://github.com/zeit/serve
-- fkill-cli: https://github.com/sindresorhus/fkill-cli
-- thefuck: https://github.com/nvbn/thefuck
+- [hotel](https://github.com/typicode/hotel)
+- [serve](https://github.com/zeit/serve)
+- fkill-[cli](https://github.com/sindresorhus/fkill-cli)
+- [thefuck](https://github.com/nvbn/thefuck)
 
 ### Mac Apps
 
 #### Development
 
-- Trello: https://trello.com/platforms
-- VS Code: https://code.visualstudio.com/Download
-- Docker: https://docs.docker.com/install
-- RoboMongo: https://robomongo.org/download
-- SquelPro: https://www.sequelpro.com/download
-- Medis: https://github.com/luin/medis/releases/tag/v0.3.0
-- Postman: https://www.getpostman.com/apps
+- [Trello](https://trello.com/platforms)
+- VS [Code](https://code.visualstudio.com/Download)
+- [Docker](https://docs.docker.com/install)
+- [RoboMongo](https://robomongo.org/download)
+- [SquelPro](https://www.sequelpro.com/download)
+- [Medis](https://github.com/luin/medis/releases/tag/v0.3.0)
+- [Postman](https://www.getpostman.com/apps)
 
 #### Communication
 
-- Slack: https://slack.com/downloads/osx
-- Mattermost: https://about.mattermost.com/download
-- Messenger: https://fbmacmessenger.rsms.me
-- Skype: https://www.skype.com/en/get-skype
+- [Slack](https://slack.com/downloads/osx)
+- [Mattermost](https://about.mattermost.com/download)
+- [Messenger](https://fbmacmessenger.rsms.me)
+- [Skype](https://www.skype.com/en/get-skype)
 
 #### Utilities
 
-- Alfred: https://www.alfredapp.com
-- Spectacle: https://www.spectacleapp.com
-- RescureTime: https://www.rescuetime.com/download
-- The Unarchiver: https://itunes.apple.com/us/app/the-unarchiver/id425424353
-- VLC: https://www.videolan.org/vlc
-- WebTorrent: https://webtorrent.io/desktop
+- [Alfred](https://www.alfredapp.com)
+- [Spectacle](https://www.spectacleapp.com)
+- [RescureTime](https://www.rescuetime.com/download)
+- The [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
+- [VLC](https://www.videolan.org/vlc)
+- [WebTorrent](https://webtorrent.io/desktop)
 
 ### VS Code Extensions
 
@@ -54,35 +54,34 @@ Installing multiple extensions at once.
 
 *Must have:*
 
-- Settings Sync: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
-- Project Manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 *Linter & Intellisense:*
 
-- ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-- TSLint: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
-- npm Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
-- Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-- SCSS Intellisense: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [SCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 *Theme & Icon:*
 
-- Theme - Oceanic Next: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
-- Ayu: https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
+- [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 *Others:*
 
-- Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
-- Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-- Color Highlight: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
-- Import Cost: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-
-- Git History: https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
-- Auto-Open Markdown Preview: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
-- Swagger Viewer: https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer
-- change-case: https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
-- vscode-base64: https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64
-- Polacode: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+- [vscode-base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 #### Prerequisites
 
@@ -105,6 +104,8 @@ And to uninstall, run:
 ```
 ./toolset/vscode/run.sh --uninstall
 ```
+
+Restart your VS Code to take effect.
 
 ## /git
 
@@ -130,12 +131,15 @@ All your cloned repositories will be placed in `/repos` upper one level of this 
 
 Starting services as docker containers so that you don't need to install each of them on your local machine.
 
-*Supported services:*
+*Database:*
 
-- mysql
-- mongodb
-- redis
-- php
+- [mysql](https://hub.docker.com/_/mysql)
+- [mongodb](https://hub.docker.com/_/mongo)
+- [redis](https://hub.docker.com/_/redis)
+
+*Others:*
+
+- [php](https://hub.docker.com/_/php)
 
 ### Prerequisites
 
