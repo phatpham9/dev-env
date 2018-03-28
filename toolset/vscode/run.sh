@@ -18,7 +18,8 @@ EXTENSIONS="\
   naumovs.theme-oceanicnext \
   pnp.polacode \
   wix.vscode-import-cost \
-  wmaurer.change-case"
+  wmaurer.change-case \
+  teabyii.ayu"
 
 function install {
   for EXTENSION in $EXTENSIONS; do
