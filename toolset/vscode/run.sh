@@ -20,10 +20,10 @@ EXTENSIONS="\
   formulahendry.auto-rename-tag \
   naumovs.color-highlight \
   wix.vscode-import-cost \
-
   donjayamanne.githistory \
   yzhang.markdown-all-in-one \
   Arjun.swagger-viewer \
+  HookyQR.beautify \
   wmaurer.change-case \
   adamhartford.vscode-base64 \
   pnp.polacode"

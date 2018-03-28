@@ -101,6 +101,7 @@ Installing multiple extensions at once.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [vscode-base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
