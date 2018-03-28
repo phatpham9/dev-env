@@ -50,6 +50,10 @@ my development environment set up
 
 ### VS Code Extensions
 
+Installing multiple extensions at once.
+
+Supported extensions:
+
 - Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 - Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 - Auto-Open Markdown Preview: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
@@ -68,6 +72,28 @@ my development environment set up
 - TSLint: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 - vscode-base64: https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64
 - Theme - Oceanic Next: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
+
+#### Prerequisites
+
+Make sure [VS Code](https://code.visualstudio.com/Download) is installed on your local machine and add its executable to the `PATH` environment variable by:
+
+1. Open VS Code
+2. Type `Shift + Command + P` to open Command palette
+3. Then type & select `Shell Command: Install 'code' command in PATH`
+
+#### Usage
+
+To install extensions, run the following command:
+
+```
+./toolset/vscode/run.sh --install
+```
+
+And to uninstall, run:
+
+```
+./toolset/vscode/run.sh --uninstall
+```
 
 ## /git
 
