@@ -48,6 +48,27 @@ my development environment set up
 - VLC: https://www.videolan.org/vlc
 - WebTorrent: https://webtorrent.io/desktop
 
+### VS Code Extensions
+
+- Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+- Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+- Auto-Open Markdown Preview: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
+- change-case: https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
+- Color Highlight: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+- ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- Git History: https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+- Import Cose: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+- npm Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+- Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+- Polacode: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
+- Project Manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+- SCSS Intellisense: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
+- Settings Sync: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+- Swagger Viewer: https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer
+- TSLint: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
+- vscode-base64: https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64
+- Theme - Oceanic Next: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
+
 ## /git
 
 Cloning your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command.
