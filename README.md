@@ -7,20 +7,17 @@ my development environment set up
 
 #### Prerequisites
 
-- brew: https://brew.sh
 - xcode: https://developer.apple.com/xcode
-
-#### Development
-
-- git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-- nvm: https://github.com/creationix/nvm#installation
+- brew: https://brew.sh
 - yarn: https://yarnpkg.com/lang/en/docs/install
+- nvm: https://github.com/creationix/nvm#installation
+- git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 #### Utilities
 
-- fkill-cli: https://github.com/sindresorhus/fkill-cli
 - hotel: https://github.com/typicode/hotel
 - serve: https://github.com/zeit/serve
+- fkill-cli: https://github.com/sindresorhus/fkill-cli
 - thefuck: https://github.com/nvbn/thefuck
 
 ### Mac Apps
