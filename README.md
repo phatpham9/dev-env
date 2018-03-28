@@ -1,5 +1,24 @@
 # dev-env
+
 my development environment set up
+
+- [/toolset](#toolset)
+  - [Command Line Tools](#command-line-tools)
+    - [Prerequisites](#prerequisites)
+    - [Utilities](#utilities)
+  - [Mac Apps](#mac-apps)
+    - [Development](#development)
+    - [Communication](#communication)
+    - [Utilities](#utilities)
+  - [VS Code Extensions](#vs-code-extensions)
+    - [Prerequisites](#prerequisites)
+    - [Usage](#usage)
+- [/git](#git)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+- [/docker](#docker)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
 
 ## /toolset
 
@@ -80,7 +99,7 @@ Installing multiple extensions at once.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [vscode-base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)
@@ -98,13 +117,13 @@ Make sure [VS Code](https://code.visualstudio.com/Download) is installed on your
 
 To install extensions, run the following command:
 
-```
+```bash
 ./toolset/vscode/run.sh --install
 ```
 
 And to uninstall, run:
 
-```
+```bash
 ./toolset/vscode/run.sh --uninstall
 ```
 
@@ -124,7 +143,7 @@ Make sure you are done with the following:
 
 Run the following command:
 
-```
+```bash
 coming soon...
 ```
 
@@ -155,13 +174,13 @@ Make sure the following tools are installed on your local machine:
 
 Run the following command to start services:
 
-```
+```bash
 ./docker/run.sh --start
 ```
 
 To stop and delete services, run:
 
-```
+```bash
 ./docker/run.sh --stop
 ```
 

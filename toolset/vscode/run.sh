@@ -22,7 +22,7 @@ EXTENSIONS="\
   wix.vscode-import-cost \
 
   donjayamanne.githistory \
-  hnw.vscode-auto-open-markdown-preview \
+  yzhang.markdown-all-in-one \
   Arjun.swagger-viewer \
   wmaurer.change-case \
   adamhartford.vscode-base64 \
