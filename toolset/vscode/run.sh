@@ -6,9 +6,12 @@ EXTENSIONS="\
 
   dbaeumer.vscode-eslint \
   eg2.tslint \
+  shinnn.stylelint \
+  vscode-markdownlint \
   christian-kohler.npm-intellisense \
   christian-kohler.path-intellisense \
   mrmlnc.vscode-scss \
+  PeterJausovec.vscode-docker \
 
   naumovs.theme-oceanicnext \
   teabyii.ayu \

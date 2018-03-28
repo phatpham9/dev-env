@@ -17,7 +17,7 @@ my development environment set up
 
 - [hotel](https://github.com/typicode/hotel)
 - [serve](https://github.com/zeit/serve)
-- fkill-[cli](https://github.com/sindresorhus/fkill-cli)
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 - [thefuck](https://github.com/nvbn/thefuck)
 
 ### Mac Apps
@@ -25,7 +25,7 @@ my development environment set up
 #### Development
 
 - [Trello](https://trello.com/platforms)
-- VS [Code](https://code.visualstudio.com/Download)
+- [VS Code](https://code.visualstudio.com/Download)
 - [Docker](https://docs.docker.com/install)
 - [RoboMongo](https://robomongo.org/download)
 - [SquelPro](https://www.sequelpro.com/download)
@@ -44,7 +44,7 @@ my development environment set up
 - [Alfred](https://www.alfredapp.com)
 - [Spectacle](https://www.spectacleapp.com)
 - [RescureTime](https://www.rescuetime.com/download)
-- The [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
+- [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 - [VLC](https://www.videolan.org/vlc)
 - [WebTorrent](https://webtorrent.io/desktop)
 
@@ -57,13 +57,16 @@ Installing multiple extensions at once.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
-*Linter & Intellisense:*
+*Lint & Intellisense:*
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+- [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+- [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [SCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [Docker IntelliSense](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
 *Theme & Icon:*
 
