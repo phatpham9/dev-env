@@ -33,6 +33,7 @@ while test $# -gt 0; do
       break
       ;;
     *)
+      echo 'No command found! Try --start or --stop.'
       break
       ;;
   esac
