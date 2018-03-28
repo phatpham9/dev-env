@@ -52,26 +52,37 @@ my development environment set up
 
 Installing multiple extensions at once.
 
-Supported extensions:
+*Must have:*
+
+- Settings Sync: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+- Project Manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+
+*Linter & Intellisense:*
+
+- ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- TSLint: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
+- npm Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+- Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+- SCSS Intellisense: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
+
+*Theme & Icon:*
+
+- Theme - Oceanic Next: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
+- Ayu: https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
+
+*Others:*
 
 - Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 - Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-- Auto-Open Markdown Preview: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
-- change-case: https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
 - Color Highlight: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
-- ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- Import Cost: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+
 - Git History: https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
-- Import Cose: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-- npm Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
-- Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-- Polacode: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
-- Project Manager: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
-- SCSS Intellisense: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
-- Settings Sync: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+- Auto-Open Markdown Preview: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
 - Swagger Viewer: https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer
-- TSLint: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
+- change-case: https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
 - vscode-base64: https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64
-- Theme - Oceanic Next: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
+- Polacode: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
 
 #### Prerequisites
 
@@ -119,7 +130,7 @@ All your cloned repositories will be placed in `/repos` upper one level of this 
 
 Starting services as docker containers so that you don't need to install each of them on your local machine.
 
-Supported services:
+*Supported services:*
 
 - mysql
 - mongodb

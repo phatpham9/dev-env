@@ -1,25 +1,29 @@
 #!/bin/bash
 
 EXTENSIONS="\
-  Arjun.swagger-viewer \
   Shan.code-settings-sync \
-  adamhartford.vscode-base64 \
   alefragnani.project-manager \
+
+  dbaeumer.vscode-eslint \
+  eg2.tslint \
   christian-kohler.npm-intellisense \
   christian-kohler.path-intellisense \
-  dbaeumer.vscode-eslint \
-  donjayamanne.githistory \
-  eg2.tslint \
+  mrmlnc.vscode-scss \
+
+  naumovs.theme-oceanicnext \
+  teabyii.ayu \
+
   formulahendry.auto-close-tag \
   formulahendry.auto-rename-tag \
-  hnw.vscode-auto-open-markdown-preview \
-  mrmlnc.vscode-scss \
   naumovs.color-highlight \
-  naumovs.theme-oceanicnext \
-  pnp.polacode \
   wix.vscode-import-cost \
+
+  donjayamanne.githistory \
+  hnw.vscode-auto-open-markdown-preview \
+  Arjun.swagger-viewer \
   wmaurer.change-case \
-  teabyii.ayu"
+  adamhartford.vscode-base64 \
+  pnp.polacode"
 
 function install {
   for EXTENSION in $EXTENSIONS; do
