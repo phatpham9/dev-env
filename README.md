@@ -92,7 +92,7 @@ Installing multiple extensions at once.
 - [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
 - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
-*Others:*
+*Utilities:*
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -128,7 +128,7 @@ And to uninstall, run:
 ./toolset/vscode/run.sh --uninstall
 ```
 
-Restart your VS Code to take effect.
+Restart your VS Code to take effect. Then follow the [Settings Sync guide](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) to download settings from your Gist to your VS Code.
 
 ## /git
 
