@@ -3,7 +3,7 @@ my development environment set up
 
 ## /toolset
 
-### Command Line tools
+### Command Line Tools
 
 #### Prerequisites
 
@@ -45,13 +45,10 @@ my development environment set up
 - Spectacle: https://www.spectacleapp.com
 - RescureTime: https://www.rescuetime.com/download
 - The Unarchiver: https://itunes.apple.com/us/app/the-unarchiver/id425424353
-
-#### Others
-
 - VLC: https://www.videolan.org/vlc
 - WebTorrent: https://webtorrent.io/desktop
 
-## /git-clone
+## /git
 
 Cloning your personal/organization repositories from Github/Gitlab/BitBucket to your local machine in one command.
 
@@ -75,6 +72,13 @@ All your cloned repositories will be placed in `/repos` upper one level of this 
 
 Starting services as docker containers so that you don't need to install each of them on your local machine.
 
+Supported services:
+
+- mysql
+- mongodb
+- redis
+- php
+
 ### Prerequisites
 
 Make sure the following tools are installed on your local machine:
@@ -90,7 +94,7 @@ Run the following command to start services:
 ./docker/run.sh --start
 ```
 
-And to stop and delete services:
+To stop and delete services, run:
 
 ```
 ./docker/run.sh --stop
