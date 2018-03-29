@@ -6,6 +6,8 @@ my development environment set up
 
 ### Command Line Tools
 
+Install all your favorite CLI tools in just on run.
+
 <details>
   <summary>Must-have</summary>
 
@@ -25,7 +27,17 @@ my development environment set up
   - [thefuck](https://github.com/nvbn/thefuck)
 </details>
 
+#### Usage
+
+Run the following command to install:
+
+```bash
+coming soon...
+```
+
 ### Mac Apps
+
+Useful apps list included download links.
 
 <details>
   <summary>Development</summary>
@@ -62,8 +74,6 @@ my development environment set up
 ### VS Code Extensions
 
 Installing multiple extensions at once.
-
-#### Extensions
 
 <details>
   <summary>Must-have</summary>
@@ -157,8 +167,6 @@ All your cloned repositories will be placed in `/repos` upper one level of this 
 ## /docker
 
 Starting services as docker containers so that you don't need to install each of them on your local machine.
-
-### Docker Services
 
 <details>
   <summary>Databases</summary>
