@@ -20,6 +20,8 @@ EXTENSIONS="\
   formulahendry.auto-rename-tag \
   naumovs.color-highlight \
   wix.vscode-import-cost \
+  aaron-bond.better-comments \
+  streetsidesoftware.code-spell-checker \
   donjayamanne.githistory \
   yzhang.markdown-all-in-one \
   Arjun.swagger-viewer \
