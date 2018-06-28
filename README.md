@@ -16,6 +16,8 @@ Install all your favorite CLI tools in just on run.
   - [yarn](https://yarnpkg.com/lang/en/docs/install)
   - [nvm](https://github.com/creationix/nvm#installation)
   - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - [minikube](https://github.com/kubernetes/minikube)
+  - [faas](https://github.com/openfaas/faas)
 </details>
 
 <details>
@@ -25,6 +27,7 @@ Install all your favorite CLI tools in just on run.
   - [serve](https://github.com/zeit/serve)
   - [fkill-cli](https://github.com/sindresorhus/fkill-cli)
   - [thefuck](https://github.com/nvbn/thefuck)
+  - [mkcert](https://github.com/FiloSottile/mkcert)
 </details>
 
 #### Usage
