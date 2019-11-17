@@ -29,31 +29,8 @@ EXTENSIONS="\
   adamhartford.vscode-base64 \
   pnp.polacode"
 
-function install {
-  for EXTENSION in $EXTENSIONS; do
-    code --install-extension $EXTENSION
-  done
-}
-
-function uninstall {
-  for EXTENSION in $EXTENSIONS; do
-    code --uninstall-extension $EXTENSION
-  done
-}
-
-while test $# -gt 0; do
-  case "$1" in
-    --install)
-      install
-      break
-      ;;
-    --uninstall)
-      uninstall
-      break
-      ;;
-    *)
-      echo 'No command found! Try --install or --uninstall.'
-      break
-      ;;
-  esac
+for EXTENSION in $EXTENSIONS; do
+  code --install-extension $EXTENSION
 done
+
+echo '-> extensions installed!'
