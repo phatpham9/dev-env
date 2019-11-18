@@ -64,7 +64,9 @@ Useful apps list included download links.
 
 #### Installation
 
-This section requires manual installation.
+```bash
+# This section requires manual installation.
+```
 
 ### VSCode Extensions
 
@@ -114,7 +116,9 @@ My opinionated useful extensions list.
 
 #### Installation
 
-This section requires manual installation.
+```bash
+# This section requires manual installation.
+```
 
 ### Station Apps
 
@@ -143,4 +147,6 @@ The list of applications/extensions which I find them useful.
 
 #### Installation
 
-This section requires manual installation.
+```bash
+# This section requires manual installation.
+```
